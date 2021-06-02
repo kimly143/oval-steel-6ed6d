@@ -10,23 +10,23 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Me
+      value: Kim Buck
       keyName: property
     - name: 'og:description'
-      value: This is the about me page
+      value: Kim Buck's portfolio
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: images/kimB-March2020.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Me
+      value: Kim Buck
     - name: 'twitter:description'
-      value: This is the about me page
+      value: Kim Buck's portfolio
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: images/kimB-March2020.jpg
       relativeUrl: true
 layout: page
 ---
