@@ -57,7 +57,7 @@ sections:
     posts_number: 2
     actions: []
 seo:
-  title: Stackbit Fresh Theme
+  title: Kim Buck
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
