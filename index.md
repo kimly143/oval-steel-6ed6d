@@ -12,11 +12,41 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      I am an international student from Vietnam. I came here with a Bachelors
+      in Computer Science from a university in Vietnam. But in the United States
+      I had to start over. It was a culture shock. At the time I didn’t think I
+      was financially, physically, or mentally capable of finishing school again
+      on the other side of the world. A few years of hard work and studying paid
+      off though, I graduated and with an internship that led to a full time
+      job.
+
+
+      I met my husband around the same time I graduated and we were married.
+      During that time I grew as an engineer and learned that I had a passion
+      for working on the user experience and front-end for web development.
+      After a few years of working and marriage we decided to have a child and I
+      decided to work from home with my son as a contractor, continuing web
+      development focused on the front-end and design. During this time I also
+      focused a lot of time providing my son with the best care.
+
+
+      It’s been six years since then and I’m ready to go back to work full time.
+      I went to Lambda school to refresh my skills and prepare myself for the
+      workforce. This reinforced my passion for user experience design as I
+      worked to try and improve every design I was able to touch. I’ve always
+      been a creative person, I like to draw, paint, build, and plan. This
+      translated directly into my front-end work as I liked to work with the
+      design. Fine tuning and adapting it to the use case as well as work on
+      making it transition to mobile smoothly.
+
+
+      In addition to software development I also enjoy working as a
+      Vietnamese-English interpreter. I’ve built a lot of good customer
+      relationships working as an interpreter and I enjoy being able to use my
+      native language to help bridge the gap between two cultures. I also enjoy
+      spending time with my family, going out for hikes or road trips and seeing
+      any sights that I can take in.
     actions:
       - label: Contact Me
         url: /contact
