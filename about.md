@@ -1,6 +1,6 @@
 ---
 title: About Me
-img_path: images/about.jpg
+img_path: images/kimB-March2020.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
