@@ -15,7 +15,7 @@ layout: body
           {% assign thumb_img_path_is_not_empty = post.thumb_img_path | is_not_empty %}
           {% if thumb_img_path_is_not_empty %}
           <!-- <a class="post-thumbnail" href="{{ post.url | relative_url }}"> -->
-          <span class="post-thumbnail"
+          <span class="post-thumbnail">
             <img src="{{ post.thumb_img_path | relative_url }}" alt="{{ post.thumb_img_alt }}" />
           <!-- </a> -->
           </span>
