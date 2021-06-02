@@ -76,11 +76,11 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: Kim Buck
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: Kim Buck's portfolio
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: images/kimB-March2020.jpg
       relativeUrl: true
 layout: advanced
 ---
