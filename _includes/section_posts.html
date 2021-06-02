@@ -21,7 +21,13 @@
           </span>
           {% endif %}
           <header class="post-header">
-            <h3 class="post-title"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a></h3>
+            <h3 class="post-title">
+                <!-- <a href="{{ post.url | relative_url }}" rel="bookmark"> -->
+                <span>
+                    {{ post.title }}
+                <!-- </a> -->
+                </span>
+            </h3>
           </header>
           {% assign excerpt_is_not_empty = post.excerpt | is_not_empty %}
           {% if excerpt_is_not_empty %}
