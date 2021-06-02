@@ -58,7 +58,7 @@ sections:
     actions: []
 seo:
   title: Kim Buck
-  description: The preview of the Fresh theme
+  description: Kim Buck's portfolio
   extra:
     - name: 'og:type'
       value: website
