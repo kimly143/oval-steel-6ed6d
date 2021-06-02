@@ -70,7 +70,7 @@ seo:
       value: Kim Buck's portfolio
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: images/kimB-March2020.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
