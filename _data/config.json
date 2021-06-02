@@ -7,7 +7,7 @@
         "tagline": "Front-end Developer",
         "profile_img": "images/avatarKimB Headshot2020.jpg",
         "profile_img_alt": "Author avatar",
-        "background": "light",
+        "background": "dark",
         "has_nav": true,
         "nav_links": [
             {
