@@ -23,6 +23,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
+          - Opportunity
           - Error on the site
           - Sponsorship
           - Other
