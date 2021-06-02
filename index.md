@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Kim Buck.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      I am a front end developer, I am a passionate about improving the user
+      experience. I use JavaScript/React, HTML, Sass/CSS for front-end. I am
+      familiar with Python, Node and MySQL for back-end. 
   - section_id: about
     type: section_content
     title: About
