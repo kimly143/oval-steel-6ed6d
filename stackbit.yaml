@@ -121,7 +121,7 @@ models:
         description: >-
           The domain of your site, including the protocol, e.g.
           https://mysite.com/
-      - type: url
+      - type: image
         name: favicon
         label: Favicon
         description: A square icon that represents your website.
