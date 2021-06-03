@@ -24,3 +24,16 @@
     </form>
   </div>
 </section><!-- .block -->
+
+
+<script>
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbxh1WHFBXIVHuV58_H4akMM0njxGsXGJyL-5DTNOra4ZVkFWbp2TxjJ7SgVJawSWOe4/exec'
+  const form = document.forms['{{ section.form_id }}']
+
+  form.addEventListener('submit', e => {
+    e.preventDefault()
+    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+      .then(response => console.log('Success!', response))
+      .catch(error => console.error('Error!', error.message))
+  })
+</script>
