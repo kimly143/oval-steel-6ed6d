@@ -38,6 +38,7 @@ seo:
       relativeUrl: true
 layout: post
 excerpt: '"When it doubt, look up!"'
+thumb_img_path: images/kind-planet.jpg
 ---
 
 Photo by [Galen Crout.](https://unsplash.com/photos/fItRJ7AHak8)
