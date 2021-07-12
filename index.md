@@ -55,6 +55,21 @@ sections:
     title: Recent Projects
     posts_number: 2
     actions: []
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    type: section_hero
 seo:
   title: Kim Buck
   description: Kim Buck's portfolio
