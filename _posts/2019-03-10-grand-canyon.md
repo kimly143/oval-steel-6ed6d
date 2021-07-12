@@ -38,7 +38,7 @@ seo:
       relativeUrl: true
 layout: post
 excerpt: >-
-  "When it doubt, look up!" n app I built when I was in school, it was just a
+  "When it doubt, look up!" an app I built when I was in school, it was just a
   backend small project and i took it above and beyond. It was a lot of fun, I
   am always enjoys it.
 thumb_img_path: images/kind-planet.jpg
