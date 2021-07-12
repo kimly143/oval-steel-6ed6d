@@ -49,8 +49,8 @@ https://unsplash.com/photos/1lfI7wkGWZ4?utm_source=unsplash\&utm_medium=referral
 
 ##
 
-# NASA 
+# NASA
 
 [https://nasa-potd-kb.netlify.app/](dayhttps://nasa-potd-kb.netlify.app/An)
 
-[An](dayhttps://nasa-potd-kb.netlify.app/An) app I built when I was in school, it was just a backend small project and i took it above and beyond. It was a lot of fun, I am always enjoys it.
+[An](dayhttps://nasa-potd-kb.netlify.app/An) app I built when I was in school, it was just a backend small project and i took it above and beyond. It was a lot of fun.
