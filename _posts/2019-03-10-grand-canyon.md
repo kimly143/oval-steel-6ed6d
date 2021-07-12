@@ -37,7 +37,7 @@ seo:
       value: images/8.jpg
       relativeUrl: true
 layout: post
-excerpt: 'It''s aways amazed me how the '
+excerpt: 'It''s aways amazed me how much we cannot see, we are '
 ---
 
 Photo by [Galen Crout.](https://unsplash.com/photos/fItRJ7AHak8)
