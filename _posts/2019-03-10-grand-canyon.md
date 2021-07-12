@@ -37,6 +37,7 @@ seo:
       value: images/8.jpg
       relativeUrl: true
 layout: post
+excerpt: 'It''s aways amazed me how the '
 ---
 
 Photo by [Galen Crout.](https://unsplash.com/photos/fItRJ7AHak8)
