@@ -37,7 +37,7 @@ seo:
       value: images/8.jpg
       relativeUrl: true
 layout: post
-excerpt: '"When it doubt, look up!"'
+excerpt: '"When it doubt, look up!" '
 thumb_img_path: images/kind-planet.jpg
 ---
 Photo by
