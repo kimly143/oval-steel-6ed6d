@@ -1,6 +1,5 @@
 ---
 title: Look up! What do you see?
-excerpt: 'This is '
 date: '2021-07-10'
 thumb_img_alt: Hikers on the trail
 content_img_path: images/8.jpg
