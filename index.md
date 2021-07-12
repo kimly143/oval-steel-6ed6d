@@ -12,7 +12,7 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >
+    content: >+
       I am an international student from Vietnam. I came here with a Bachelors
       in Computer Science from a university in Vietnam. But in the United States
       I had to start over. It was a culture shock. At the time I didn’t think I
@@ -22,31 +22,30 @@ sections:
       job.
 
 
-      I met my husband around the same time I graduated and we were married.
-      During that time I grew as an engineer and learned that I had a passion
-      for working on the user experience and front-end for web development.
-      After a few years of working and marriage we decided to have a child and I
-      decided to work from home with my son as a contractor, continuing web
-      development focused on the front-end and design. During this time I also
-      focused a lot of time providing my son with the best care.
+      I was a straight-A student in college before I began working as a
+      front-end engineer, but the company didn't do well. So after leaving there
+      I went to LSUS with a Foundation scholarship to work on my Bachelor degree
+      full time. During this time I helped manage my family’s businesses and
+      also worked as a contract developer for Horntoad Studios LLC.
 
 
-      It’s been six years since then and I’m ready to go back to work full time.
-      I went to Lambda school to refresh my skills and prepare myself for the
-      workforce. This reinforced my passion for user experience design as I
-      worked to try and improve every design I was able to touch. I’ve always
-      been a creative person, I like to draw, paint, build, and plan. This
-      translated directly into my front-end work as I liked to work with the
-      design. Fine tuning and adapting it to the use case as well as work on
-      making it transition to mobile smoothly.
+      September of 2014 my son was born and I chose to stay at home to make sure
+      he was well cared for and I also put full support in my husband. Now my
+      son is ready to go into 1st grade and I feel ready to go back into the
+      work force. While I haven't worked professionally since my son's birth, I
+      am a fast learner and hard worker which has allowed me to accomplish
+      everything placed before me so far. I believe that if we're willing to
+      learn and start over we can all be successful, no matter who or where we
+      are.
 
 
-      In addition to software development I also enjoy working as a
-      Vietnamese-English interpreter. I’ve built a lot of good customer
-      relationships working as an interpreter and I enjoy being able to use my
-      native language to help bridge the gap between two cultures. I also enjoy
-      spending time with my family, going out for hikes or road trips and seeing
-      any sights that I can take in.
+
+
+
+
+
+
+
     actions:
       - label: Contact Me
         url: /contact
