@@ -37,7 +37,7 @@ seo:
       value: images/8.jpg
       relativeUrl: true
 layout: post
-excerpt: When it dou
+excerpt: 'When it doub, look up!'
 ---
 
 Photo by [Galen Crout.](https://unsplash.com/photos/fItRJ7AHak8)
