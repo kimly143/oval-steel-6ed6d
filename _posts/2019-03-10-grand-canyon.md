@@ -38,9 +38,9 @@ seo:
       relativeUrl: true
 layout: post
 excerpt: >-
-  "When it doubt, look up!" NASA https://nasa-potd-kb.netlify.app/ An app I
-  built when I was in school, it was just a backend small project and i took it
-  above and beyond. It was a lot of fun, I am always enjoys it.
+  "When it doubt, look up!" n app I built when I was in school, it was just a
+  backend small project and i took it above and beyond. It was a lot of fun, I
+  am always enjoys it.
 thumb_img_path: images/kind-planet.jpg
 ---
 Photo by
